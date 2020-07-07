@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="148" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="148" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+      <class name="testcases.Exclude">
+        <test-method status="PASS" signature="methodA()[pri:0, instance:testcases.Exclude@520a3426]" name="methodA" duration-ms="27" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodA -->
+        <test-method status="PASS" signature="methodB()[pri:0, instance:testcases.Exclude@520a3426]" name="methodB" duration-ms="3" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodB -->
+        <test-method status="PASS" signature="methodC()[pri:0, instance:testcases.Exclude@520a3426]" name="methodC" duration-ms="11" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodC -->
+        <test-method status="PASS" signature="methodD()[pri:0, instance:testcases.Exclude@520a3426]" name="methodD" duration-ms="3" started-at="2020-06-29T11:37:01 IST" finished-at="2020-06-29T11:37:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodD -->
+      </class> <!-- testcases.Exclude -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
